@@ -8,7 +8,9 @@ WORK IN PROGRESS. CURRENTLY NOTHING DONE YET
 Basic programming things:
 
 • Functions
+
 • Class
+
 • Obj programming
 and more...
 
